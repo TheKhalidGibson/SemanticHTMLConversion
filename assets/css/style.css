@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/*This marks the start of header section below*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +42,8 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/*This marks the end of the header section*/
 
 a {
     color: #ffffff;
@@ -85,6 +89,8 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/*This section below is the main section that should link to the nav bar*/
 
 .lead {
     margin-bottom: 32px;
@@ -187,6 +193,7 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*This marks the end of the section that refers to the main articles*/
 
 footer {
     padding: 30px;
