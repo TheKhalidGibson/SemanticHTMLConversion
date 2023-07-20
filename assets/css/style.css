@@ -140,7 +140,7 @@ aside {
     max-width: 150px;
 }
 
-.s-e-o {
+#s-e-o {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -149,7 +149,7 @@ aside {
     color: #ffffff;
 }
 
-.o-r-m {
+#o-r-m {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -158,7 +158,7 @@ aside {
     color: #ffffff;
 }
 
-.s-m-m {
+#s-m-m {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -167,29 +167,29 @@ aside {
     color: #ffffff;
 }
 
-.s-e-o img {
+#s-e-o img {
     max-height: 200px;
 }
 
-.o-r-m img {
+#o-r-m img {
     max-height: 200px;
 }
 
-.s-m-m img {
+#s-m-m img {
     max-height: 200px;
 }
 
-.s-e-o h2 {
+#s-e-o h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.o-r-m h2 {
+#o-r-m h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.s-m-m h2 {
+#s-m-m h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
