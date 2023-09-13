@@ -78,9 +78,3 @@ The following images show the results of this application's development phase:
 ![Image showing the main content of the page](./assets/sematicHTML2.png)
 
 
- 
-
-
- * **User Story**: This Challenge was an exercise not only where I wanted to get associated and comfortable with HTML Semantic elements but mainly to get used to pushing to GitHub and then Deploying it as well. This Challenge was necessary and I wanted to make sure that every big change I made was committed and eventually push so that deployment was up and running as intended.
-
- * ScreenShot* file:///C:/Users/Khalid%20Malik/Pictures/Screenshots/Screenshot%202023-07-20%20213316.png
